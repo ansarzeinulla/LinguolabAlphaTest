@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Linguolab</string>
+
+    <string-array name="r00fairy">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+    </string-array>
+    <string-array name="r00Qfairy">
+        <item>qr00q101</item>
+        <item>qr00q102</item>
+        <item>qr00q103</item>
+    </string-array>
+    <string-array name="qr00q101">
+        <item>1969</item>
+        <item>Franko</item>
+        <item>text1</item>
+    </string-array>
+    <string-array name="qr00q102">
+        <item>1979</item>
+        <item>Franko22</item>
+        <item>text12222</item>
+    </string-array>
+    <string-array name="qr00q103">
+        <item>2009</item>
+        <item>Franko33</item>
+        <item>text13333333</item>
+    </string-array>
+
+
+    <string-array name="r01fairy">
+        <item>A analis</item>
+        <item>B analis</item>
+        <item>C analis</item>
+    </string-array>
+    <string-array name="r01Qfairy">
+        <item>qr01q101</item>
+        <item>qr01q102</item>
+        <item>qr01q103</item>
+    </string-array>
+    <string-array name="qr01q101">
+        <item>1969</item>
+        <item>Franko ANALIS</item>
+        <item>text1</item>
+        <item>text analyz</item>
+    </string-array>
+    <string-array name="qr01q102">
+        <item>1979</item>
+        <item>Franko22 ANALIS</item>
+        <item>text12222</item>
+        <item>text analyz</item>
+    </string-array>
+    <string-array name="qr01q103">
+        <item>2009</item>
+        <item>Franko33 ANALIS</item>
+        <item>text13333333</item>
+        <item>text analyz</item>
+    </string-array>
+</resources>

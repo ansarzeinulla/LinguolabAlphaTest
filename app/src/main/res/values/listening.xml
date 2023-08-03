@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="l00news">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+    </string-array>
+    <string-array name="l00Qnews">
+        <item>ql00q101</item>
+        <item>ql00q102</item>
+        <item>ql00q103</item>
+    </string-array>
+    <string-array name="ql00q101">
+        <item>1969</item>
+        <item>Franko</item>
+        <item>text1</item>
+        <item>"https://firebasestorage.googleapis.com/v0/b/linguolab-kz.appspot.com/o/linaudio1.mp3?alt=media</item>
+        <item>token=9300c128-0aac-485c-8cd8-5fb48dc8cf7d"</item>
+    </string-array>
+
+</resources>
